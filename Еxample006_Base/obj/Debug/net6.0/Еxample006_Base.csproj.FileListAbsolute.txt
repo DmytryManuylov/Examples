@@ -1,0 +1,15 @@
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.exe
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.deps.json
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.runtimeconfig.json
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.dll
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\bin\Debug\net6.0\Еxample006_Base.pdb
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.AssemblyInfo.cs
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.csproj.CoreCompileInputs.cache
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.dll
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\refint\Еxample006_Base.dll
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.pdb
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\Еxample006_Base.genruntimeconfig.cache
+C:\Users\diamo\Desktop\Examples\Еxample006_Base\obj\Debug\net6.0\ref\Еxample006_Base.dll
