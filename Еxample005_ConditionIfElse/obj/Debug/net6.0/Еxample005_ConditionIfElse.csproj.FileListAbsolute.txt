@@ -1,0 +1,5 @@
+C:\Users\diamo\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\diamo\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diamo\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\diamo\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\diamo\Desktop\Examples\Еxample005_ConditionIfElse\obj\Debug\net6.0\Еxample005_ConditionIfElse.csproj.CoreCompileInputs.cache
